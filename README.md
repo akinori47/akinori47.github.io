@@ -1,2 +1,2 @@
 # akinori47.github.io
-CV
+Roman Khafizov | Ufa, Russia | personal page
