@@ -52,40 +52,40 @@ a:hover {
 	margin: 0 auto;
 }
 
-.intro {
+.greeting {
 	margin: 150px 0 90px 0;
 	text-align: center;
 }
 
-.intro span {
+.greeting span {
 	margin-bottom: 10px;
 	font-size: 22px;
 	line-height: 40px;
 }
 
-.intro span.highlight {
+.greeting span.highlight {
 	background-color: #333;
 	color: white;
 }
 
-.intro span.highlight-red {
+.greeting span.highlight-red {
 	background-color: darkred;
 	color: white;
 	transition: 0.3s;
 }
 
-.intro span.highlight-red:hover {
+.greeting span.highlight-red:hover {
 	background-color: red;
 	color: white;
 	transition: 0.3s;
 }
 
 @media (max-width: 360px) {
-	.intro {
+	.greeting {
 		margin: 50px 0 50px 0;
 	}
 
-	.intro span {
+	.greeting span {
 		font-size: 18px;
 		line-height: 28px;
 	}
